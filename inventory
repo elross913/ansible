@@ -1,2 +1,2 @@
 [all]
-elross913@192.168.232.133
+192.168.232.133 ansible_user=elross913 ansible_ssh_private_key_file=~/.ssh/ansible ansible_python_interpreter=/usr/bin/python3.10
